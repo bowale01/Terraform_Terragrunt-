@@ -1,6 +1,12 @@
 # Terraform_Terragrunt
 
 
+Terraform: "HashiCorp Terraform is an infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share.
+
+
+Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state
+
+
 https://terragrunt.gruntwork.io/
 
 
